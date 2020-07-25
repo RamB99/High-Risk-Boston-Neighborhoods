@@ -1,0 +1,20 @@
+Identifying high-risk Covid-19 Neighborhoods in Boston
+
+The goal of this project is to use location data on various neighborhoods in Boston in order to identify which ones are more
+dangerous and vulenerable with respect to the novel coronavirus. This is an important current issue faced mostly by the United States since Covid-19
+is still in full swing as the curve as not yet been flattened. Identifying high-risk neighborhoods can help people avoid those areas
+while they are socially distancing- which can not only help protect the people living in those neighborhoods, but also those that are not. 
+
+As many are aware, Covid-19 is a dangerous virus with no known cure (currently), and it can be spread by asymptomatic carriers. As a result, 
+people with pre-existing medical conditions or with compromised immunity are especially susceptible to the virus, and they should be protected. 
+Although Boston is one of the better cities with their denizens abiding by the mask guidelines and generally socially distancing when compared with 
+other cities and states in the country, coronavirus is still prevalent, and any minor error could potentially cause the virus to resurface. 
+
+I plan to use location data and API calls on the various neighborhoods in Boston, and perform a clustering algorithm to determine which neighborhoods
+are dangerous and should be avoided versus neighborhoods that are not as risky. The criteria for determining what constitutes a high risk area is based
+mostly on the venues nearby in such neighborhood. For example, a neighborhood with a lot of restaurants or areas where a high number of people can gather
+in somewhat close proximity. Currently, Boston has officially opened up restaurants and other areas with appropriate social distancing measures, but the risk 
+of spreading or contracting the virus still remains high. 
+
+In an ideal world, people can properly avoid going out until the virus is eliminated or the curve flattened, but that is impractical. As a result, I hope this
+project will at the very least make people think twice about the locations they aim to visit. 
