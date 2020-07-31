@@ -1,0 +1,16 @@
+For the scope of this project, a lot of data will be needed to get the best possible results. 
+As a result, I have listed the possible sources of data that I might need to make this project successful. 
+
+First and foremost, I will need location and neighborhood data for the various buroughs and neighborhoods in Boston. 
+I plan to use wikipedia as a source for this- similar to how I did in the previous week's Toronto segmentation project. 
+On top of this, I will need latitude and longitude data for creating visual aids through folium, so I plan to use 
+Wikipedia for that as well. 
+
+To ensure that my data is exactly as I want, I might have to manually create a csv file to access and transform into a 
+dataframe since the tables for the data I want are not readily accessible through conventional sources. 
+
+I will also be using four-square location data based on the latitudes and longitudes of the various neighborhoods in Boston.
+This will allow me to get a list of venues and businesses and general entities that exist in Boston which I will be using to 
+perform segmentation and clustering analysis or a scoring analysis based on the risk factor. 
+
+I plan to weigh different venues differently and the higher the score is, the riskier the neighborhood is. 

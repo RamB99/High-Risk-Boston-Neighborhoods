@@ -1,5 +1,7 @@
 Identifying high-risk Covid-19 Neighborhoods in Boston
 
+Introduction & Business Problem
+
 The goal of this project is to use location data on various neighborhoods in Boston in order to identify which ones are more
 dangerous and vulenerable with respect to the novel coronavirus. This is an important current issue faced mostly by the United States since Covid-19
 is still in full swing as the curve as not yet been flattened. Identifying high-risk neighborhoods can help people avoid those areas
